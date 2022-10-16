@@ -1,0 +1,9 @@
+.user {
+  border: none;
+  margin: 30px;
+}
+
+.users-wrapper {
+  display: flex;
+  justify-content: center;
+}
